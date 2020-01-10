@@ -2,9 +2,10 @@ Hellow world.......
 
 Welcome 
 
-feature 1 = Login
+feature 1 = Login - updated by team member for checking 3 way merging
 
 feature 2 = logout
 
 
-bug2= fixed
+bug2= fixed 
+
