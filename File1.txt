@@ -7,4 +7,4 @@ feature 1 = Login
 feature 2 = logout
 
 
-bug2= fixed
+bug2= fixed 
