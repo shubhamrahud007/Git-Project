@@ -4,4 +4,6 @@ Welcome
 
 feature 1 = Login
 
-fearyre 2 = logout
+feature 2 = logout
+
+bug1 - fixed
